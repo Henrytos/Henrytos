@@ -18,7 +18,7 @@
 
 </div>
 <br/>
-Apaixonado  por tecnologia, educação e por mudar a vida da pessoas através da programação
+Apaixonado  por tecnologia e suas funcionalidades 
 
 ### Sites:
 - [Projeto Portifolio - Html5 Css3 Bootstrap V5.0](https://stalwart-fox-a11553.netlify.app/)
