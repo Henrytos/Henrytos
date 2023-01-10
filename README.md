@@ -18,7 +18,7 @@
 
 </div>
 <br/>
-Apaixonado  por tecnologia e suas funcionalidades 
+Apaixonado  por tecnologia e suas Utilidades
 
 ### Sites:
 - [Projeto Portifolio - Html5 Css3 Bootstrap V5.0](https://stalwart-fox-a11553.netlify.app/)
