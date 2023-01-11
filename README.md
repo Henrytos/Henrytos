@@ -24,5 +24,5 @@ Apaixonado  por tecnologia e suas Utilidades
 - [Projeto Portifolio - Html5 Css3 Bootstrap V5.0](https://stalwart-fox-a11553.netlify.app/)
 - [Carta Deji - Html5 Css3 Js](https://loquacious-dragon-88246f.netlify.app/)
 - [Cart JUjutsu kaisen - Html5 Css3 ](https://cozy-longma-ae1f16.netlify.app/)
-- [Galeria de kimetsu - Html5 Css3 Js ](https://frolicking-starlight-6e36a8.netlify.app/)
+- [Projeto Fitnes - Html5 Css3 Js ](https://frolicking-starlight-6e36a8.netlify.app/](https://henrytos.github.io/GRID-FLEXBOX/Exercicio%20flex+grid/)
 - [Projeto Responsividade - Html5 Css3](https://warm-madeleine-519bf5.netlify.app/)
