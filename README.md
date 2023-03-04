@@ -23,7 +23,6 @@ Apaixonado  por tecnologia e suas Utilidades
 ### Sites:
 - [calculadora](https://henrytos.github.io/calc.js/)
 - [Jogo da Velha](https://henrytos.github.io/Jogo-da-velha/)
-- [Carta Deji](https://loquacious-dragon-88246f.netlify.app/)
-- [Cartas Jujutsu kaisen](https://cozy-longma-ae1f16.netlify.app/)
-- [Projeto Fitnes](https://henrytos.github.io/GRID-FLEXBOX/Exercicio%20flex+grid/)
-- [Projeto Responsividade ](https://warm-madeleine-519bf5.netlify.app/)
+- [Card Deji](https://loquacious-dragon-88246f.netlify.app/)
+- [Cartas de Jujutsu kaisen](https://cozy-longma-ae1f16.netlify.app/)
+- 
