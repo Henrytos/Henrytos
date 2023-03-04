@@ -5,7 +5,7 @@
 [![blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035259228757)
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_henry2928/)
 [![blog](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Devhenry)
-
+<a href=”https://t.me/Devhenry” target=”_blank”>
 ![Henrytos GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrytos&show_icons=true&theme=radical)
 
 ### Tecnologias que uso no meu dia
