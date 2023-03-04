@@ -25,4 +25,3 @@ Apaixonado  por tecnologia e suas Utilidades
 - [Jogo da Velha](https://henrytos.github.io/Jogo-da-velha/)
 - [Card Deji](https://loquacious-dragon-88246f.netlify.app/)
 - [Cartas de Jujutsu kaisen](https://cozy-longma-ae1f16.netlify.app/)
-- 
