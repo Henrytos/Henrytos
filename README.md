@@ -22,5 +22,4 @@ Apaixonado  por tecnologia e suas Utilidades
 ### Sites:
 - [calculadora](https://henrytos.github.io/calc.js/)
 - [Jogo da Velha](https://henrytos.github.io/Jogo-da-velha/)
-- [Card Deji](https://loquacious-dragon-88246f.netlify.app/)
-- [Cartas de Jujutsu kaisen](https://cozy-longma-ae1f16.netlify.app/)
+- [Lista de tarefas](https://henrytos.github.io/Lista-de-tarefas/)
