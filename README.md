@@ -37,3 +37,4 @@ Apaixonado  por tecnologia e suas Utilidades
 - [calculadora](https://henrytos.github.io/calc.js/)
 - [Jogo da Velha](https://henrytos.github.io/Jogo-da-velha/)
 - [Lista de tarefas](https://henrytos.github.io/Lista-de-tarefas/)
+![GitHub Snake dark](https://github.com/vinybergamo/vinybergamo/blob/output/github-contribution-grid-snake.svg)
