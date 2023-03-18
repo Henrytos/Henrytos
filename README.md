@@ -4,7 +4,7 @@
 tenho sonho de me tornar Desenvolvedor Front-end e Ser Respeitado e Adimirado Por Muitos
 
 
-<img align="right" width="310em" src="https://raw.githubusercontent.com/gist/Henrytos/2e6d7bd03518b93c4d858129e3459d1f/raw/451483efaf3a0c60a7d3401d543fbfa3b6c5ea63/githubcard.svg"/>
+<img align="right" width="350em" src="https://raw.githubusercontent.com/gist/Henrytos/2e6d7bd03518b93c4d858129e3459d1f/raw/451483efaf3a0c60a7d3401d543fbfa3b6c5ea63/githubcard.svg"/>
 
 ## Contato📞:
 
@@ -22,8 +22,8 @@ tenho sonho de me tornar Desenvolvedor Front-end e Ser Respeitado e Adimirado Po
 
   
  <a href="https://github.com/vinybergamo">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Henrytos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrytos&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Henrytos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrytos&layout=compact&langs_count=7&theme=algolia"/>
  
   <br>
   <br>
