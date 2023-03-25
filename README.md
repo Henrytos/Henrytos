@@ -41,4 +41,8 @@ tenho sonho de me tornar Desenvolvedor Front-end e Ser Respeitado e Adimirado Po
 - [calculadora](https://henrytos.github.io/calc.js/)
 - [Jogo da Velha](https://henrytos.github.io/Jogo-da-velha/)
 - [Lista de tarefas](https://henrytos.github.io/Lista-de-tarefas/)
-![GitHub Snake dark](https://github.com/vinybergamo/vinybergamo/blob/output/github-contribution-grid-snake.svg)
+
+   
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   
+
