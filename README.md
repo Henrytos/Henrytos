@@ -5,7 +5,7 @@
 tenho sonho de me tornar Desenvolvedor Front-end e Ser Respeitado e Adimirado Por Muitos
 
 
-<img align="right" width="380em" src="https://raw.githubusercontent.com/gist/Henrytos/2e6d7bd03518b93c4d858129e3459d1f/raw/451483efaf3a0c60a7d3401d543fbfa3b6c5ea63/githubcard.svg"/>
+<img align="right" width="380em" src="https://raw.githubusercontent.com/gist/Henrytos/262969ea6b4856cf1243d9e080448cc5/raw/cf92d8bd27766fe9d7e7a4c66557df4784ba85aa/euMesmo.svg"/>
 
 ## Contato📞:
 
