@@ -33,6 +33,8 @@ tenho sonho de me tornar Desenvolvedor Front-end e Ser Respeitado e Adimirado Po
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-rgb(227,%2079,%2038)?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-rgb(21,%20114,%20182)?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Javascript-rgb(247,%20223,%2030)?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-rgb(49,120,198)?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Bulma-rgb(255,255,255)?style=for-the-badge&logo=bulma&logoColor=(0,209,178)">
 <img align="center" alt="html5" src="https://img.shields.io/badge/BOOTSTRAP-rgb(86,%2061,%20124)?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
   
