@@ -25,7 +25,7 @@ tenho sonho de me tornar Desenvolvedor Front-end e Ser Respeitado e Adimirado Po
 
   
  <a href="https://github.com/vinybergamo">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrytos&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrytos&layout=compact&langs_count=7&theme=algolia"/>
  
   <br>
   <br>
