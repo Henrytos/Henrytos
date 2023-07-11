@@ -20,15 +20,11 @@ tenho sonho de me tornar Desenvolvedor Front-end e Ser Respeitado e Adimirado Po
 
 ## Tecnologias que uso no meu dia
 
-![Henrytos GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrytos&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrytos&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Henry" /><br><br><br><br><br><br><br>
 
 
-   <a href="https://github.com/vinybergamo">
-    <img  width="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrytos&layout=compact&langs_count=7&theme=algolia"/>
- 
 
-  <br>
-  <br>
+
 <div style="display: inli_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-rgb(227,%2079,%2038)?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-rgb(21,%20114,%20182)?style=for-the-badge&logo=css3&logoColor=white">
@@ -36,6 +32,8 @@ tenho sonho de me tornar Desenvolvedor Front-end e Ser Respeitado e Adimirado Po
 <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-rgb(49,120,198)?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Bulma-rgb(255,255,255)?style=for-the-badge&logo=bulma&logoColor=(0,209,178)">
 <img align="center" alt="html5" src="https://img.shields.io/badge/BOOTSTRAP-rgb(86,%2061,%20124)?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Git-rgb(227,%2079,%2038)?style=for-the-badge&logo=Git&logoColor=white">
+   
 </div>
   
 
