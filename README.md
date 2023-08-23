@@ -44,6 +44,5 @@ tenho sonho de me tornar Desenvolvedor Front-end e Ser Respeitado e Adimirado Po
 - [Lista de tarefas](https://henrytos.github.io/Lista-de-tarefas/)
 - [Relogio](https://henrytos.github.io/Relogio/)  
 - [QRcode](https://henrytos.github.io/Genereto/)  
-- [Site Responsivo](https://henrytos.github.io/GRID-FLEXBOX/)  
 
    
