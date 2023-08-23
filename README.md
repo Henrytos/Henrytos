@@ -39,10 +39,12 @@ tenho sonho de me tornar Desenvolvedor Front-end e Ser Respeitado e Adimirado Po
 
 
 ## Projetos Praticos:
-- [calculadora](https://henrytos.github.io/calc.js/)
-- [Jogo da Velha](https://henrytos.github.io/Jogo-da-velha/)
-- [Lista de tarefas](https://henrytos.github.io/Lista-de-tarefas/)
-- [Relogio](https://henrytos.github.io/Relogio/)  
+
 - [QRcode](https://henrytos.github.io/Genereto/)  
+- [SPAs](https://vercel.com/henryfranz/academia)  
+- [Spotify](https://spotify-ten-sigma.vercel.app)
+- [Imposto de Renda](https://spotify-raqf.vercel.app)
+- [One Bit X](https://henrytos.github.io/Genereto/)  
+
 
    
