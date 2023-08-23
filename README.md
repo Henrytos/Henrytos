@@ -47,6 +47,3 @@ tenho sonho de me tornar Desenvolvedor Front-end e Ser Respeitado e Adimirado Po
 - [Site Responsivo](https://henrytos.github.io/GRID-FLEXBOX/)  
 
    
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-   
-
