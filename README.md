@@ -44,7 +44,7 @@ tenho sonho de me tornar Desenvolvedor Front-end e Ser Respeitado e Adimirado Po
 - [SPAs](https://vercel.com/henryfranz/academia)  
 - [Spotify](https://spotify-ten-sigma.vercel.app)
 - [Imposto de Renda](https://spotify-raqf.vercel.app)
-- [One Bit X](https://henrytos.github.io/Genereto/)  
+- [One Bit X](https://henrytos.github.io/onebitX/home.html)  
 
 
    
