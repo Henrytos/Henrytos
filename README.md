@@ -27,7 +27,7 @@
 <br>
 
 
-## Tecnologias que uso no meu dia💻
+## Tecnologias que uso no meu dia 💻
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrytos&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Henry" /><br><br><br><br><br><br><br><br>
 
