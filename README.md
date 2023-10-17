@@ -51,7 +51,7 @@
 ## Projetos Praticos:
 
 - [QRcode](https://henrytos.github.io/Genereto/)  
-- [SPAs](https://vercel.com/henryfranz/academia)  
+- [XHealth](https://academia-xhealth.vercel.app/)  
 - [Spotify](https://spotify-ten-sigma.vercel.app)
 - [Imposto de Renda](https://spotify-raqf.vercel.app)
 - [One Bit X](https://henrytos.github.io/onebitX/home.html)  
