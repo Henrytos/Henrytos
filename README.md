@@ -1,7 +1,3 @@
-
-# um pouco sobre min 😄
-<img src="https://komarev.com/ghpvc/?username=Henrytos&color=blue" alt="Profile views" />
-
 <h2>Meu <a  href="https://portifolio-eight-sandy-70.vercel.app/" target="_blank"  >Portifolio</a></h2>
 
 
