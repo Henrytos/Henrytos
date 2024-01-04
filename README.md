@@ -2,7 +2,9 @@
 # um pouco sobre min 😄
 <img src="https://komarev.com/ghpvc/?username=Henrytos&color=blue" alt="Profile views" />
 
-👋 Meu nome é Henry, tenho 17 anos, atualmente estudante de Desenvolvimento Front-end e frequentando o 2º ano do Ensino Médio Técnico no Curso de Desenvolvimento de Sistemas (DS).
+<h2>Meu <a target="_blank" href="https://portifolio-eight-sandy-70.vercel.app/">Portifolio</a></h2>
+
+👋 Meu nome é Henry, tenho 17 anos, atualmente estudante de Desenvolvimento Front-end e frequentando o 3º ano do Ensino Médio Técnico no Curso de Desenvolvimento de Sistemas (DS).
 
 🍔 Comida Favorita? Acredito que seria "Sarta".
 
