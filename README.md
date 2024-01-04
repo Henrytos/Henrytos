@@ -71,7 +71,7 @@
   
 
 
-## Projetos Praticos:
+## Projetos Pessoais:
 
 - [XHealth](https://academia-xhealth.vercel.app/)  
 - [Spotify](https://spotify-ten-sigma.vercel.app)
