@@ -14,7 +14,6 @@
 
 💭 Sonho? Meu sonho é ser uma referência jovem em TI como Sebastian McKenzie, Mark Zuckerberg ou Diego Fernandes.
 
-😔 Ponto Fraco? Emocional Fragíl 💔.
 
 
 
