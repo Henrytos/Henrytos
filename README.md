@@ -6,13 +6,7 @@
 
 
 
-👋 Meu nome é Henry, tenho 17 anos, atualmente estudante de Desenvolvimento Front-end e frequentando o 3º ano do Ensino Médio Técnico no Curso de Desenvolvimento de Sistemas (DS).
-
-🍔 Comida Favorita? Acredito que seria "Sarta".
-
-🎯 Hobbies? Não tenho muitos, seriam: Treinar 🏋️‍♂️, jogar 🎮, assistir Doramas/Animes 📺, ler mangás 📚 e ouvir música 🎵.
-
-💭 Sonho? Meu sonho é ser uma referência jovem em TI como Sebastian McKenzie, Mark Zuckerberg ou Diego Fernandes.
+👋 Meu nome é Henry, tenho 17 anos, atualmente estudante de Desenvolvimento Front-end e frequentando o 3º ano do Ensino Médio Técnico no Curso de Desenvolvimento de Sistemas (DS)
 
 
 
