@@ -7,8 +7,6 @@
 
 
 
-<img align="right" width="290em" src="https://raw.githubusercontent.com/gist/Henrytos/262969ea6b4856cf1243d9e080448cc5/raw/cf92d8bd27766fe9d7e7a4c66557df4784ba85aa/euMesmo.svg"/>
-
 ## Entre em contato:📞:
 
 [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511967603378)
@@ -22,7 +20,7 @@
 
 ## Tecnologias que uso no meu dia 💻
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrytos&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Henry" /><br><br><br><br><br><br><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrytos&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Henry" />
 
 ![Henry Franz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henrytos&show_icons=true&theme=dracula)
 
