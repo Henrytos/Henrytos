@@ -1,6 +1,6 @@
 <h2>Meu <a  href="https://portifolio-alpha-ebon.vercel.app/" target="_blank"  >Portifolio</a> , espero que goste </h2>
 
-👋 Meu nome é Henry, tenho 17 anos, tenho objetivo de me tornar desenvolvedor full stack javascript e trablahr para espanha 
+👋 Meu nome é Henry, tenho 17 anos, tenho objetivo de me tornar desenvolvedor full stack javascript e trablahr para espanha aceito feedbacks
 
 
 ## Entre em contato:📞:
