@@ -1,6 +1,6 @@
-<h2>Meu <a  href="https://portifolio-alpha-ebon.vercel.app/" target="_blank"  >Portifolio</a> </h2>
+<h2> <a  href="https://portifolio-alpha-ebon.vercel.app/" target="_blank"  >Portifolio</a> </h2>
 
-👋 Meu nome é Henry, tenho 17 anos, tenho objetivo de me tornar desenvolvedor full stack typescript e trabalhar/morar na espanha 
+👋 olá ,Meu nome é Henry, tenho 17 anos, tenho objetivo de me tornar desenvolvedor full stack typescript e trabalhar/morar na espanha 
 
 
 ## Entre em contato:📞:
