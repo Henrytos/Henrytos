@@ -2,14 +2,6 @@
 
 olá meu nome é henry sou desnevolvedor full stack typescript 
 
-## Entre em contato:📞:
-
-[![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511967603378)
-[![blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035259228757)
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_henry2928/)
-[![blog](https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-franz-617841245/)
-[![blog](https://img.shields.io/badge/DIscord-7289d9?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/a8sYJXvV)
-<br>
 <br>
 
 
