@@ -75,10 +75,14 @@ olá meu nome é henry sou desnevolvedor full stack typescript
 
 ## Projetos Pessoais:
 
-- [NextAnime](https://anime-next-ruby.vercel.app/)  
-- [XHealth](https://academia-xhealth.vercel.app/)  
+- [NextAnime](https://anime-next-ruby.vercel.app/)
+
+- [XHealth](https://academia-xhealth.vercel.app/)
+
 - [Imposto de Renda](https://spotify-raqf.vercel.app)
-- [Investeens](https://inveetens.vercel.app/#)  
+ 
+- [Investeens](https://inveetens.vercel.app/#)
+  
 - [Portifolio](https://portifolio-alpha-ebon.vercel.app/)
 
    
