@@ -64,16 +64,34 @@ Atualmente estou cursando o 3º ano do ensino médio e estou em busca de uma opo
   
 
 
-## Projetos Pessoais:
+## Projetos Pessoais
 
-- [NextAnime](https://anime-next-ruby.vercel.app/)
+<div>
+  <a href="https://anime-next-ruby.vercel.app/" targer="_blank">
+      <img width="200" height="150"  src="https://media.licdn.com/dms/image/D4D2DAQEToscC042W_A/profile-treasury-image-shrink_800_800/0/1709992557832?e=1722607200&v=beta&t=PxuBwKUfQLn6Ie3LS_YkTQGLoXrxEgBbIPqvydpYReo" />  
+  </a>
 
-- [XHealth](https://academia-xhealth.vercel.app/)
+  <a href="https://spotify-raqf.vercel.app" targer="_blank">
+    <img width="200" height="150" src="https://portifolio-alpha-ebon.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fimposto-de-renda.png&w=1080&q=75" />  
+  </a>
 
-- [Imposto de Renda](https://spotify-raqf.vercel.app)
- 
-- [Investeens](https://inveetens.vercel.app/#)
+  <a href="https://onebit-x-xi.vercel.app/home.html" targer="_blank">
+    <img width="200" height="150" src="https://portifolio-alpha-ebon.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fone-bit-x.png&w=1080&q=75" />  
+  </a>
   
-- [Portifolio](https://portifolio-alpha-ebon.vercel.app/)
+  <a href="https://academia-xhealth.vercel.app/" targer="_blank">
+    <img width="200" height="150" src="https://portifolio-alpha-ebon.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Facademia-x-health.png&w=1080&q=75" />  
+  </a>
+</div>
+
+<ul>
+  <li>NEXT ANIME</li>
+  <li>IMPORTO DE RENDA</li>
+  <li>ONEBIT X</li>
+  <li>ACADEMIA XHEALTH</li>
+</ul>
+                          
+                          
+
 
    
