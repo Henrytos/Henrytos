@@ -86,7 +86,7 @@ Atualmente estou cursando o 3º ano do ensino médio e estou em busca de uma opo
 
 <ul>
   <li>NEXT ANIME</li>
-  <li>IMPORTO DE RENDA</li>
+  <li>IMPOSTO DE RENDA</li>
   <li>ONEBIT X</li>
   <li>ACADEMIA XHEALTH</li>
 </ul>
