@@ -4,7 +4,7 @@ Olá, meu nome é Henry, tenho 17 anos e sou desenvolvedor full stack typescript
 Atualmente estou cursando o 3º ano do ensino médio e estou em busca de uma oportunidade de trabalho para que eu possa me desenvolver profissionalmente e pessoalmente.
 
 
-## Tecnologias que uso no meu dia a dia 💻
+## Tecnologias que utilizo no meu dia a dia 💻
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrytos&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Henry" />
 
