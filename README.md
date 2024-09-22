@@ -64,7 +64,7 @@ Atualmente estou cursando o 3º ano do ensino médio e estou em busca de uma opo
   
 
 
-## Projetos Pessoais
+## Projetos Pessoais.
 
 <div>
   <a href="https://anime-next-ruby.vercel.app/" targer="_blank">
