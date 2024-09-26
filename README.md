@@ -1,8 +1,11 @@
 <h2> <a  href="https://portifolio-alpha-ebon.vercel.app/" target="_blank"  >Portifolio</a> </h2>
 
-Olá, meu nome é Henry, tenho 17 anos e sou desenvolvedor full stack typescript. 
-Atualmente estou cursando o 3º ano do ensino médio e estou em busca de uma oportunidade de trabalho para que eu possa me desenvolver profissionalmente e pessoalmente.
+Meu nome henry sou desenvolvedor web , atualmente curso ultimo ano do ensino médio técnico na ETEC Parque  da Juventude ,
+cursando Desenvolvimento de sistemas 
 
+a procura de um primeiro emprego na areá de desenvolvimento de software 
+
+apaixonado por aprender e ensinar além de entusiasta na areá d desenvolvimento
 
 ## Tecnologias que utilizo  💻
 
