@@ -72,7 +72,7 @@ Atualmente estou cursando o 3º ano do ensino médio e estou em busca de uma opo
 
 <div>
   <a href="https://anime-next-ruby.vercel.app/" targer="_blank">
-      <img width="200" height="150"  src="https://media.licdn.com/dms/image/D4D2DAQEToscC042W_A/profile-treasury-image-shrink_800_800/0/1709992557832?e=1722607200&v=beta&t=PxuBwKUfQLn6Ie3LS_YkTQGLoXrxEgBbIPqvydpYReo" />  
+      <img width="200" height="150"  src="https://portifolio-alpha-ebon.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fnext-anime.png&w=2048&q=75" />  
   </a>
 
   <a href="https://spotify-raqf.vercel.app" targer="_blank">
