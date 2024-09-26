@@ -1,4 +1,4 @@
-<h2> <a  href="https://portifolio-alpha-ebon.vercel.app/" target="_blank"  >Portifolio</a> </h2>
+<h2> <a  href="https://portifolio-alpha-ebon.vercel.app/" target="_blank"  >Portifolio 🔗 </a> </h2>
 
 Meu nome henry sou desenvolvedor web , atualmente curso ultimo ano do ensino médio técnico na ETEC Parque  da Juventude ,
 cursando Desenvolvimento de sistemas 
@@ -101,10 +101,10 @@ apaixonado por aprender e ensinar além de entusiasta na areá d desenvolvimento
 </div>
 
 <ul>
-  <li>NEXT ANIME</li>
-  <li>IMPOSTO DE RENDA</li>
-  <li>ONEBIT X</li>
-  <li>ACADEMIA XHEALTH</li>
+  <li><a href="https://anime-next-ruby.vercel.app/" targer="_blank">NEXT ANIME 🔗</a></li>
+  <li><a href="https://onebit-x-xi.vercel.app/home.html" targer="_blank">IMPOSTO DE RENDA 🔗</a></li>
+  <li><a href="https://onebit-x-xi.vercel.app/home.html" targer="_blank">One Bit X 🔗</a></li>
+  <li><a href="https://academia-xhealth.vercel.app/" targer="_blank">X-Health 🔗</a></li>
 </ul>
                           
                           
