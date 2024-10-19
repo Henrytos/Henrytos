@@ -7,7 +7,7 @@ a procura de um primeiro emprego na areá de desenvolvimento de software
 
 apaixonado por aprender e ensinar além de entusiasta na areá d desenvolvimento
 
-## Tecnologias que utilizo  💻
+## Tecnologias que utilizo 💻
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrytos&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Henry" />
 
