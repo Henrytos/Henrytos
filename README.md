@@ -5,7 +5,7 @@ cursando Desenvolvimento de sistemas
 
 a procura de um primeiro emprego na areá de desenvolvimento de software 
 
-apaixonado por aprender e ensinar além de entusiasta na areá d desenvolvimento
+apaixonado por aprender e ensinar além de entusiasta na areá de desenvolvimento
 
 ## Tecnologias que utilizo 💻
 
