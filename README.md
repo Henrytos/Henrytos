@@ -1,4 +1,4 @@
-<h2> <a  href="https://portifolio-theta-pink-36.vercel.app/" target="_blank"  >Meu Web Site 🔗 </a> </h2>
+<h2> <a  href="https://henry-franz.vercel.app/" target="_blank"  >Meu Web Site 🔗 </a> </h2>
 
 Meu nome henry sou desenvolvedor web , atualmente curso ultimo ano do ensino médio técnico na ETEC Parque  da Juventude ,
 cursando Desenvolvimento de sistemas 
@@ -84,19 +84,19 @@ apaixonado por aprender e ensinar além de entusiasta na areá de desenvolviment
 
 <div>
   <a href="https://anime-next-ruby.vercel.app/" targer="_blank">
-      <img width="200" height="150"  src="https://portifolio-alpha-ebon.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fnext-anime.png&w=2048&q=75" />  
+      <img width="200" height="150"  src="https://henry-franz.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fnext-anime.png&w=384&q=75" />  
   </a>
 
   <a href="https://spotify-raqf.vercel.app" targer="_blank">
-    <img width="200" height="150" src="https://portifolio-alpha-ebon.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fimposto-de-renda.png&w=1080&q=75" />  
+    <img width="200" height="150" src="https://henry-franz.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fimposto-de-renda.png&w=384&q=75" />  
   </a>
 
   <a href="https://onebit-x-xi.vercel.app/home.html" targer="_blank">
-    <img width="200" height="150" src="https://portifolio-alpha-ebon.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fone-bit-x.png&w=1080&q=75" />  
+    <img width="200" height="150" src="https://henry-franz.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fone-bit-x.png&w=384&q=75"/>
   </a>
   
   <a href="https://academia-xhealth.vercel.app/" targer="_blank">
-    <img width="200" height="150" src="https://portifolio-alpha-ebon.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Facademia-x-health.png&w=1080&q=75" />  
+    <img width="200" height="150" src="https://henry-franz.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Facademia-x-health.png&w=384&q=75" />  
   </a>
 </div>
 
