@@ -7,6 +7,11 @@ a procura de um primeiro emprego na areá de desenvolvimento de software
 
 apaixonado por aprender e ensinar além de entusiasta na areá de desenvolvimento
 
+
+
+
+              
+
 ## Tecnologias que utilizo 💻
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrytos&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Henry" />
@@ -77,7 +82,6 @@ apaixonado por aprender e ensinar além de entusiasta na areá de desenvolviment
 
 
 </div>
-  
 
 
 ## Projetos Pessoais.
@@ -106,9 +110,15 @@ apaixonado por aprender e ensinar além de entusiasta na areá de desenvolviment
   <li><a href="https://onebit-x-xi.vercel.app/home.html" targer="_blank">One Bit X 🔗</a></li>
   <li><a href="https://academia-xhealth.vercel.app/" targer="_blank">X-Health 🔗</a></li>
 </ul>
-                          
+
+
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrytos/Henrytos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrytos/Henrytos/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Henrytos/Henrytos/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+            
+
