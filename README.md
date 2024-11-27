@@ -1,9 +1,6 @@
 <h2> <a  href="https://henry-franz.vercel.app/" target="_blank"  >Meu Web Site 🔗 </a> </h2>
 
-Meu nome henry sou desenvolvedor web , atualmente curso ultimo ano do ensino médio técnico na ETEC Parque  da Juventude ,
-cursando Desenvolvimento de sistemas 
-
-a procura de um primeiro emprego na areá de desenvolvimento de software 
+Meu nome henry tengo 18 anos e sou desenvolvedor web , atualmente curso ultimo ano do ensino médio técnico em Desenvolvimento de sistemas 
 
 apaixonado por aprender e ensinar além de entusiasta na areá de desenvolvimento
 
