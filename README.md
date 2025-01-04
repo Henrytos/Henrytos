@@ -1,8 +1,7 @@
 <h2> <a  href="https://henry-franz.vercel.app/" target="_blank"  >Meu Web Site 🔗 </a> </h2>
 
-Meu nome henry tengo 18 anos e sou desenvolvedor web , atualmente curso ultimo ano do ensino médio técnico em Desenvolvimento de sistemas 
-
-apaixonado por aprender e ensinar além de entusiasta na areá de desenvolvimento
+Meu nome henry tenho 18 anos, atualmente cursando a graduaÇÃo de ADS na São paulo Tech School 
+apaixonado por aprender e ensinar além de entusiasta na areá de desenvolvimento web
 
 
 
@@ -60,6 +59,7 @@ apaixonado por aprender e ensinar além de entusiasta na areá de desenvolviment
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 ![VItest](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703)
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <h2>Ferreamnetas</h2
 
