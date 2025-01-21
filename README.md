@@ -81,8 +81,7 @@ apaixonado por aprender e ensinar além de entusiasta e apaixonado por desenvolv
 </div>
 
 
-## Projetos Pessoais.
-
+ ## Projetos Pessoais.
 <div>
   <a href="https://anime-next-ruby.vercel.app/" targer="_blank">
       <img width="200" height="150"  src="https://henry-franz.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fnext-anime.png&w=384&q=75" />  
