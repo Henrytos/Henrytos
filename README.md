@@ -1,7 +1,7 @@
 <h2> <a  href="https://henry-franz.vercel.app/" target="_blank"  >Meu Web Site 🔗 </a> </h2>
 
 Meu nome henry tenho 18 anos, atualmente cursando a graduaÇÃo de ADS na São paulo Tech School 
-apaixonado por aprender e ensinar além de entusiasta na areá de desenvolvimento web
+apaixonado por aprender e ensinar além de entusiasta e apaixonado por desenvolvimento web
 
 
 
