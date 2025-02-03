@@ -100,12 +100,6 @@ apaixonado por aprender e ensinar além de entusiasta e apaixonado por desenvolv
   </a>
 </div>
 
-<ul>
-  <li><a href="https://anime-next-ruby.vercel.app/" targer="_blank">NEXT ANIME 🔗</a></li>
-  <li><a href="https://onebit-x-xi.vercel.app/home.html" targer="_blank">IMPOSTO DE RENDA 🔗</a></li>
-  <li><a href="https://onebit-x-xi.vercel.app/home.html" targer="_blank">One Bit X 🔗</a></li>
-  <li><a href="https://academia-xhealth.vercel.app/" targer="_blank">X-Health 🔗</a></li>
-</ul>
 
 
   
