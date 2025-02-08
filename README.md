@@ -94,8 +94,8 @@ apaixonado por aprender e ensinar além de entusiasta e apaixonado por desenvolv
   </a>
 
 
-  <a href="https://github.com/Henrytos/portifolio" targer="_blank">
-    <img width="250" height="150" src="https://github.com/user-attachments/assets/5289edcf-83f6-46ee-b094-4ae487343621" alt="portifolio previes" />  
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7203202608906309633/" targer="_blank">
+    <img width="250" height="150" src="https://github.com/PabloXT14/book-wise/raw/main/.github/assets/home-logged-in-page.png" alt="portifolio previes" />  
   </a>
 
   <br/>
@@ -118,8 +118,8 @@ apaixonado por aprender e ensinar além de entusiasta e apaixonado por desenvolv
     <img width="150" height="250" src="https://github.com/user-attachments/assets/25164541-d274-4603-abb9-eb92462d24f1" />  
   </a>
 
-  <a href="https://github.com/Henrytos/imposto-de-renda" targer="_blank">
-    <img width="150" height="250" src="https://github.com/user-attachments/assets/2354fbcd-7c1d-4e48-9574-202bf1932bea" />  
+  <a href="https://github.com/Henrytos/portifolio" targer="_blank">
+    <img width="150" height="250" src="https://github.com/user-attachments/assets/eb553b1b-3397-45f8-a716-68f9cd6e2de3" />  
   </a>
 
 </div>
