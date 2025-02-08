@@ -20,7 +20,7 @@ apaixonado por aprender e ensinar além de entusiasta e apaixonado por desenvolv
 
 <div style="display: inli_block">
 
-<h2>Skills Front end</h2>
+<h2>🖌️ Skills Front end</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,7 +43,7 @@ apaixonado por aprender e ensinar além de entusiasta e apaixonado por desenvolv
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
 
-<h2>Skills Back end</h2>
+<h2>🧑‍💻 Skills Back end</h2>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -62,7 +62,7 @@ apaixonado por aprender e ensinar além de entusiasta e apaixonado por desenvolv
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<h2>Ferreamnetas</h2
+<h2>⚒️ Ferramentas</h2
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
