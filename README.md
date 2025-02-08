@@ -82,7 +82,7 @@ apaixonado por aprender e ensinar além de entusiasta e apaixonado por desenvolv
 </div>
 
 
- ## Projetos Pessoais.
+ ## 🔥 Projetos Pessoais.
 <div>
 
   <a href="https://github.com/Henrytos/xp-zone" targer="_blank">
