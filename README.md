@@ -1,3 +1,4 @@
+
 <h2> <a  href="https://henry-franz.vercel.app/" target="_blank"  >Meu Web Site Pessoal 🔗 </a> </h2>
 
 Meu nome henry tenho 18 anos, atualmente cursando a graduação de ADS na São paulo Tech School 
@@ -83,22 +84,54 @@ apaixonado por aprender e ensinar além de entusiasta e apaixonado por desenvolv
 
  ## Projetos Pessoais.
 <div>
-  <a href="https://anime-next-ruby.vercel.app/" targer="_blank">
-      <img width="200" height="150"  src="https://henry-franz.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fnext-anime.png&w=384&q=75" />  
+
+  <a href="https://github.com/Henrytos/xp-zone" targer="_blank">
+    <img width="250" height="150" src="https://lh3.googleusercontent.com/pw/AP1GczMyJ501PoQvkvVUS2EqAx7mvJ2B39gkofi0J7KOrvAGhSBx1TN6nZ8YsMnPkwoZ4ci1EM3FVO4hDxMVU1garUrUSwSS4UrK4lyEbvUwIdmlET5lcZCmff_K_PGEnBtYgvNwv1aqcBOr2do0_iowBBvy4w=w1713-h963-s-no?authuser=0" alt="xp zone bg"/>
   </a>
 
-  <a href="https://spotify-raqf.vercel.app" targer="_blank">
-    <img width="200" height="150" src="https://henry-franz.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fimposto-de-renda.png&w=384&q=75" />  
+  <a href="https://github.com/Henrytos/Busca-Solidaria" targer="_blank">
+    <img width="300" height="150" src="https://lh3.googleusercontent.com/pw/AP1GczN4daYjxnOvi4qgxIFKCwf8jBQJo11bdljuvyc9T-twIf2oQsG-3MZE1TTtOLBdSf7ixCIzujvteZrpC1RypMx2ge-1cmbwb7gutXkHcRKja1V0U1mwspdEtoDkX583bfmogKE0qpyoPVny1clVKHIjcw=w1854-h783-s-no?authuser=1" />  
   </a>
 
-  <a href="https://onebit-x-xi.vercel.app/home.html" targer="_blank">
-    <img width="200" height="150" src="https://henry-franz.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Fone-bit-x.png&w=384&q=75"/>
+
+  <a href="https://github.com/Henrytos/portifolio" targer="_blank">
+    <img width="250" height="150" src="https://github.com/user-attachments/assets/5289edcf-83f6-46ee-b094-4ae487343621" alt="portifolio previes" />  
   </a>
+
+  <br/>
+  <br/>
   
-  <a href="https://academia-xhealth.vercel.app/" targer="_blank">
-    <img width="200" height="150" src="https://henry-franz.vercel.app/_next/image?url=%2Fimgs%2Fprojects%2Facademia-x-health.png&w=384&q=75" />  
+  
+  <a href="https://github.com/Henrytos/anime-next" targer="_blank">
+    <img width="150" height="250" src="https://github.com/user-attachments/assets/c7da2313-23c6-46fe-b0d7-d312c1f7cc95" />  
   </a>
+
+  <a href="https://github.com/Henrytos/fw-foods" targer="_blank">
+    <img width="150" height="250" src="https://github.com/user-attachments/assets/a0af22b0-188d-454e-8f8e-9d144cca92e2" />  
+  </a>
+
+   <a href="https://github.com/Henrytos/05-nest-clean" targer="_blank">
+    <img width="150" height="250" src="https://github.com/user-attachments/assets/08f31792-7479-4c83-9777-d4262d79863f" />  
+  </a>
+
+  <a href="https://github.com/Henrytos/inveetens" targer="_blank">
+    <img width="150" height="250" src="https://github.com/user-attachments/assets/25164541-d274-4603-abb9-eb92462d24f1" />  
+  </a>
+
+  <a href="https://github.com/Henrytos/imposto-de-renda" targer="_blank">
+    <img width="150" height="250" src="https://github.com/user-attachments/assets/2354fbcd-7c1d-4e48-9574-202bf1932bea" />  
+  </a>
+
 </div>
+
+
+
+
+
+
+
+
+
 
 
 
