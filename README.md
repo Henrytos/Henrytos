@@ -2,8 +2,8 @@
 
 ## 🧑🏽 Sobrem min   
 
-olá ,meu nome henry tenho 18 anos, atualmente cursando a graduação de ADS na São paulo Tech School 
-apaixonado por aprender e ensinar além de entusiasta e amante por desenvolvimento web e suas tendencias, minha vocação e objetivo e ser desenvolvedor full stack typescript.
+olá ,meu nome henry tenho 18 anos, atualmente cursando a graduação de ADS na São Paulo Tech School 
+apaixonado por aprender e ensinar além de entusiasta e amante por desenvolvimento web e suas tendencias, minha vocação e objetivo é ser desenvolvedor full stack typescript, utilizando NextJs(front end) e NestJs(back end).
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrytos&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Henry" />
