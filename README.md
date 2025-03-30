@@ -104,27 +104,32 @@ sou um apaixonado por aprender e ensinar além de entusiasta e amante por desenv
 
   <br/>
   <br/>
+
   
+   <a href="https://github.com/Henrytos/Fastfeet" targer="_blank">
+    <img width="150" height="250" src="https://github.com/user-attachments/assets/77a6d233-abe2-4d86-ab3b-e05b3fdc1844" />  
+  </a>
   
   <a href="https://github.com/Henrytos/anime-next" targer="_blank">
     <img width="150" height="250" src="https://github.com/user-attachments/assets/c7da2313-23c6-46fe-b0d7-d312c1f7cc95" />  
   </a>
 
-  <a href="https://github.com/Henrytos/fw-foods" targer="_blank">
-    <img width="150" height="250" src="https://github.com/user-attachments/assets/a0af22b0-188d-454e-8f8e-9d144cca92e2" />  
-  </a>
 
    <a href="https://github.com/Henrytos/05-nest-clean" targer="_blank">
     <img width="150" height="250" src="https://github.com/user-attachments/assets/08f31792-7479-4c83-9777-d4262d79863f" />  
   </a>
+ 
 
-  <a href="https://github.com/Henrytos/inveetens" targer="_blank">
-    <img width="150" height="250" src="https://github.com/user-attachments/assets/25164541-d274-4603-abb9-eb92462d24f1" />  
+  <a href="https://github.com/Henrytos/fw-foods" targer="_blank">
+    <img width="150" height="250" src="https://github.com/user-attachments/assets/a0af22b0-188d-454e-8f8e-9d144cca92e2" />  
   </a>
+
 
   <a href="https://github.com/Henrytos/portifolio" targer="_blank">
-    <img width="150" height="250" src="https://github.com/user-attachments/assets/eb553b1b-3397-45f8-a716-68f9cd6e2de3" />  
+    <img width="150" height="250" src="https://github.com/user-attachments/assets/a89393fe-c6ea-4a2f-b8b0-af0c7fc29e12" />  
   </a>
+
+
 
 </div>
 
