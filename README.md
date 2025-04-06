@@ -4,8 +4,8 @@
  <h2>🧑🏽 Sobrem min </h2>
 <img src='https://komarev.com/ghpvc/?username=Henrytos&label=Profile%20views&color=8200db&style=flat'>
 <p>
- Meu nome é Henry, atualmente cursando a graduação de ADS na São Paulo Tech School com apenas 18 anos 
-sou um apaixonado por aprender e ensinar além de entusiasta e amante por desenvolvimento web e suas tendencias, minha vocação e objetivo é ser desenvolvedor full stack typescript, utilizando NextJs(front end) e NestJs(back end) por meio da linguagem do Typescript
+ Olá,Meu nome é Henry, atualmente cursando graduação de Análise e Desenvolvimento de Sistemas na São Paulo Tech School com apenas 18 anos 
+sou um apaixonado por aprender e ensinar além de entusiasta e amante por desenvolvimento web e suas tendências, minha vocação e objetivo é ser desenvolvedor full stack typescript, utilizando NextJs(front end) e NestJs(back end) por meio da linguagem do Typescript, gosto de ler mangás, livros e artigos e sou fascinado pelo mundo dos animes, meu maior sonho é ser um progamador na espanha e poder viver daquilo que eu amo... o desenolvimento de software.
 
 </p>
 <br/>
