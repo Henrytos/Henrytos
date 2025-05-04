@@ -85,6 +85,9 @@ sou um apaixonado por aprender e ensinar além de entusiasta e amante por desenv
 
  ## 🔥 Projetos Pessoais.
 <div>
+  <a href="https://github.com/Henrytos/anime-recommendation" targer="_blank">
+    <img width="250" height="150"  src="https://github.com/user-attachments/assets/bac8efac-1f5e-4f63-94d7-a6c6a6a96b98" alt="anime bg"/>
+  </a> 
 
   <a href="https://github.com/Henrytos/xp-zone" targer="_blank">
     <img width="250" height="150" src="https://lh3.googleusercontent.com/pw/AP1GczMyJ501PoQvkvVUS2EqAx7mvJ2B39gkofi0J7KOrvAGhSBx1TN6nZ8YsMnPkwoZ4ci1EM3FVO4hDxMVU1garUrUSwSS4UrK4lyEbvUwIdmlET5lcZCmff_K_PGEnBtYgvNwv1aqcBOr2do0_iowBBvy4w=w1713-h963-s-no?authuser=0" alt="xp zone bg"/>
