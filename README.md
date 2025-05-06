@@ -98,9 +98,6 @@ sou um apaixonado por aprender e ensinar além de entusiasta e amante por desenv
   </a>
 
 
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7203202608906309633/" targer="_blank">
-    <img width="250" height="150" src="https://github.com/PabloXT14/book-wise/raw/main/.github/assets/home-logged-in-page.png" alt="portifolio previes" />  
-  </a>
 
   <br/>
   <br/>
