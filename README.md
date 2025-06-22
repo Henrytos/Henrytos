@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8200DB&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Henry+;Desenvolvedor+Front+end+%E2%9D%8C;Desenvolvedor+Back+end+%E2%9D%8C;Desenvolvedor+Full+stack+%E2%9C%85)](https://git.io/typing-svg)
-
-
  <h2>🧑🏽 Sobrem min </h2>
 <img src='https://komarev.com/ghpvc/?username=Henrytos&label=Profile%20views&color=8200db&style=flat'>
 <p>
@@ -25,11 +22,8 @@ sou um apaixonado por aprender e ensinar além de entusiasta e amante por desenv
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
@@ -54,11 +48,8 @@ sou um apaixonado por aprender e ensinar além de entusiasta e amante por desenv
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703)
-![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
 <h2>⚒️ Ferramentas</h2>
@@ -72,13 +63,12 @@ sou um apaixonado por aprender e ensinar além de entusiasta e amante por desenv
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <h2>🧑🏽‍💻 Estudando</h2>
 
 
 ![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -96,36 +86,6 @@ sou um apaixonado por aprender e ensinar além de entusiasta e amante por desenv
   <a href="https://github.com/Henrytos/Busca-Solidaria" targer="_blank">
     <img width="300" height="150" src="https://lh3.googleusercontent.com/pw/AP1GczN4daYjxnOvi4qgxIFKCwf8jBQJo11bdljuvyc9T-twIf2oQsG-3MZE1TTtOLBdSf7ixCIzujvteZrpC1RypMx2ge-1cmbwb7gutXkHcRKja1V0U1mwspdEtoDkX583bfmogKE0qpyoPVny1clVKHIjcw=w1854-h783-s-no?authuser=1" />  
   </a>
-
-
-
-  <br/>
-  <br/>
-
-  
-   <a href="https://github.com/Henrytos/Fastfeet" targer="_blank">
-    <img width="150" height="250" src="https://github.com/user-attachments/assets/77a6d233-abe2-4d86-ab3b-e05b3fdc1844" />  
-  </a>
-  
-  <a href="https://github.com/Henrytos/anime-next" targer="_blank">
-    <img width="150" height="250" src="https://github.com/user-attachments/assets/c7da2313-23c6-46fe-b0d7-d312c1f7cc95" />  
-  </a>
-
-
-   <a href="https://github.com/Henrytos/05-nest-clean" targer="_blank">
-    <img width="150" height="250" src="https://github.com/user-attachments/assets/08f31792-7479-4c83-9777-d4262d79863f" />  
-  </a>
- 
-
-  <a href="https://github.com/Henrytos/fw-foods" targer="_blank">
-    <img width="150" height="250" src="https://github.com/user-attachments/assets/a0af22b0-188d-454e-8f8e-9d144cca92e2" />  
-  </a>
-
-
-  <a href="https://github.com/Henrytos/portifolio" targer="_blank">
-    <img width="150" height="250" src="https://github.com/user-attachments/assets/a89393fe-c6ea-4a2f-b8b0-af0c7fc29e12" />  
-  </a>
-
 
 
 </div>
