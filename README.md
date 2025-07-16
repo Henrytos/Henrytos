@@ -55,7 +55,7 @@
 
 
  ## 🔥 Projetos Pessoais
-<div>
+
   <a href="https://github.com/Henrytos/anime-recommendation" targer="_blank">
     <img width="250" height="150"  src="https://github.com/user-attachments/assets/bac8efac-1f5e-4f63-94d7-a6c6a6a96b98" alt="anime bg"/>
   </a> 
@@ -67,10 +67,5 @@
   <a href="https://github.com/Henrytos/Busca-Solidaria" targer="_blank">
     <img width="300" height="150" src="https://lh3.googleusercontent.com/pw/AP1GczN4daYjxnOvi4qgxIFKCwf8jBQJo11bdljuvyc9T-twIf2oQsG-3MZE1TTtOLBdSf7ixCIzujvteZrpC1RypMx2ge-1cmbwb7gutXkHcRKja1V0U1mwspdEtoDkX583bfmogKE0qpyoPVny1clVKHIjcw=w1854-h783-s-no?authuser=1" />  
   </a>
-
-
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:AB47BC,100:10002B"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:AB47BC,100:10002B" style="transform: translateY(-2.1rem);" />
 
