@@ -1,11 +1,31 @@
- <h2>🧑🏽 Sobrem min </h2>
-<img src='https://komarev.com/ghpvc/?username=Henrytos&label=Profile%20views&color=8200db&style=flat'>
-<p>
- Olá,Meu nome é Henry tenho 18 anos, atualmente cursando graduação de Análise e Desenvolvimento de Sistemas na São Paulo Tech School(2°semestre) 
-sou um apaixonado por aprender e ensinar além de entusiasta e amante por desenvolvimento back end e suas tendências, sou estagiario numa consultoria multinacional(stefanini) designado para aréa de back end prestando serviço para o bradesco
- utilizando ferramentas robustas e atuais como java e spring boot
+# 💜 Olá, eu sou o Henry!
+<p align="left">
+  Desenvolvedora em formação, apaixonado por aprender e compartilhar conhecimento. <br>
+ Tenho focado meus estudos em <strong>Node.js e Java</strong> e <strong>Spring boot</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Desenvolvimento Back end.
 </p>
+
+## Sobre mim
+
+- 🖥️ Técnica em Desenvolvimento de Sistemas pela ETEC Parque da juventude
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas Na São Paulo Tech School
+- 📚 Estudando Java, Spring Boot, Node Js, e desenvolvimento fullstack
+- ❤️ Tenho um [linkedin](https://www.instagram.com/eduardavieira.dev?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr) e sempre estou postando passos de minha trajetória na programação
+
 <br/>
+
+
+---
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
 
 <div>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrytos&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Henry" />
