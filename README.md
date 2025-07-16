@@ -6,10 +6,10 @@
 
 ## Sobre mim
 
-- 🖥️ Técnica em Desenvolvimento de Sistemas pela ETEC Parque da juventude
+- 🖥️ Técnico em Desenvolvimento de Sistemas pela ETEC Parque da juventude
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas Na São Paulo Tech School
 - 📚 Estudando Java, Spring Boot, Node Js, e desenvolvimento fullstack
-- ❤️ Tenho um [linkedin](https://www.instagram.com/eduardavieira.dev?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr) e sempre estou postando passos de minha trajetória na programação
+- ❤️ Tenho um [linkedin](https://www.linkedin.com/in/henry-franz/) e sempre estou postando passos de minha trajetória na programação
 
 <br/>
 
