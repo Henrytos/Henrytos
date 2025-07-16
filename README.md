@@ -38,23 +38,23 @@
 
 <div style="display: inline-block">
 
-<h2>🧑‍💻 Skills Back end</h2>
+<h2> ☕ Skills Back end</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,ts,nestjs,prisma,vitest,docker,redis,mysql&theme=dark)](https://skillicons.dev)
 
-<h2>🧑‍💻 Skills Front end</h2>
+<h2>🖌️ Skills Front end</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&theme=dark)](https://skillicons.dev)
 
 
-<h2>🧑🏽‍💻 Estudando</h2>
+<h2>📚 Estudando</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
 
 </div>
 
 
- ## 🔥 Projetos Pessoais.
+ ## 🔥 Projetos Pessoais
 <div>
   <a href="https://github.com/Henrytos/anime-recommendation" targer="_blank">
     <img width="250" height="150"  src="https://github.com/user-attachments/assets/bac8efac-1f5e-4f63-94d7-a6c6a6a96b98" alt="anime bg"/>
@@ -72,4 +72,5 @@
 </div>
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:AB47BC,100:10002B"/>
 
