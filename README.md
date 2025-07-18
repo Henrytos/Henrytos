@@ -8,7 +8,7 @@
 
 - 🖥️ Técnico em Desenvolvimento de Sistemas pela ETEC Parque da juventude
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas Na São Paulo Tech School
-- 📚 Estudando Java, Spring Boot, Node Js, e desenvolvimento fullstack
+- 📚 Estudando Java, Spring Boot para aprofundamento em back end
 - ❤️ Tenho um [linkedin](https://www.linkedin.com/in/henry-franz/) e sempre estou postando passos de minha trajetória na programação
 
 <br/>
