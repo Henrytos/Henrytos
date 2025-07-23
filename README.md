@@ -49,7 +49,7 @@
 
 <h2>📚 Estudando</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,terraform,aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws&theme=dark)](https://skillicons.dev)
 
 </div>
 
