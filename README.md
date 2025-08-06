@@ -1,7 +1,7 @@
 # 💜 Olá, eu sou o Henry!
 <p align="left">
   Desenvolvedora em formação, apaixonado por aprender e compartilhar conhecimento. <br>
- Tenho focado meus estudos em <strong>Node.js e Java</strong> e <strong>Spring boot</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Desenvolvimento Back end.
+ Tenho focado meus estudos em <strong>Java</strong> e <strong>Spring boot</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Desenvolvimento Back end.
 </p>
 
 ## Sobre mim
