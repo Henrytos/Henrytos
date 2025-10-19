@@ -1,14 +1,14 @@
-# 💙 Olá, eu sou o Henry
+# 💙 Olá, eu sou Henry Franz
 <p align="left">
   Desenvolvedor em formação, apaixonado por aprender e compartilhar conhecimento. <br>
- Tenho focado meus estudos em <strong>Java</strong> e <strong>Spring boot</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada profissional.
+ Tenho foco em ser desenvolvedor back end <strong>Java</strong> com <strong>Spring boot</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada profissional.
 </p>
 
 ## Sobre mim
 
 - 🖥️ Técnico em Desenvolvimento de Sistemas pela ETEC Parque da juventude
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas Na São Paulo Tech School
-- 📚 Estudando Java, Spring Boot para aprofundamento em back end
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas Na [São Paulo Tech School](https://sptech.school/)
+- 📚 Estudando [Java, Spring Boot](https://github.com/Henrytos/java-studies) para aprofundamento em back end
 - ❤️ Tenho um [linkedin](https://www.linkedin.com/in/henry-franz/) e sempre estou postando passos de minha trajetória na programação
 
 <br/>
@@ -28,7 +28,7 @@
 
 
 
-## ⭐ GitHub Stats
+## ⭐ GitHub
 
 <a href="https://github.com/Henrytos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrytos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -40,7 +40,7 @@
 
 <h2> ☕ Skills Back end</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,ts,nestjs,prisma,vitest,docker,redis,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,ts,nestjs,prisma,vitest,docker,redis,mysql&theme=dark)](https://skillicons.dev)
 
 <h2>🖌️ Skills Front end</h2>
 
@@ -49,7 +49,7 @@
 
 <h2>📚 Estudando</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,swagger,aws&theme=dark)](https://skillicons.dev)
 
 </div>
 
