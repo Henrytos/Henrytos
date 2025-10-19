@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-- 🖥️ Técnico em Desenvolvimento de Sistemas pela ETEC Parque da juventude
+- 🖥️ Técnico em Desenvolvimento de Sistemas pela [ETEC Parque da juventude](https://etecparquedajuventude.cps.sp.gov.br/)
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas Na [São Paulo Tech School](https://sptech.school/)
 - 📚 Estudando [Java, Spring Boot](https://github.com/Henrytos/java-studies) para aprofundamento em back end
 - 🧑‍💻 Estagiário em Desenvolvimento Back end da [Stefanini Brasil](https://www.linkedin.com/company/stefanini-brasil/)
