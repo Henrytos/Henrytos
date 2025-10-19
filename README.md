@@ -58,15 +58,15 @@
  ## 🔥 Projetos Pessoais
 
   <a href="https://github.com/Henrytos/cycle-authenticate" targer="_blank">
-    <img  height="185"  src="https://github.com/user-attachments/assets/c9019a76-e63e-491e-b0ee-469cee25ca1d" alt="anime bg"/>
+    <img  height="150"  src="https://github.com/user-attachments/assets/c9019a76-e63e-491e-b0ee-469cee25ca1d" alt="anime bg"/>
   </a> 
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7338913025057288193/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7338913025057288193%29" targer="_blank">
-    <img  height="185"  src="https://github.com/user-attachments/assets/00c6a2c5-d9b7-4ff3-b666-aa8649342e38" alt="anime bg"/>
+    <img  height="150"  src="https://github.com/user-attachments/assets/00c6a2c5-d9b7-4ff3-b666-aa8649342e38" alt="anime bg"/>
   </a> 
 
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7304593980971769856/" targer="_blank">
-    <img  height="185" src="https://github.com/user-attachments/assets/bc95bbe3-94a8-4c79-b202-b92f39129358" alt="xp zone bg"/>
+    <img  height="150" src="https://github.com/user-attachments/assets/bc95bbe3-94a8-4c79-b202-b92f39129358" alt="xp zone bg"/>
   </a>
 
   
