@@ -1,7 +1,7 @@
 # 💙 Olá, eu sou Henry Franz
 <p align="left">
   Desenvolvedor em formação, apaixonado por aprender e compartilhar conhecimento. <br>
- Tenho foco em ser desenvolvedor back end <strong>Java</strong> com <strong>Spring boot</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada profissional.
+ Tenho foco em ser desenvolvedor back end <strong>Java</strong> com <strong>Spring boot</strong>, com o objetivo de transformar cada aprendizado em uma grande passo na minha vida prossional.
 </p>
 
 ## Sobre mim
@@ -9,6 +9,7 @@
 - 🖥️ Técnico em Desenvolvimento de Sistemas pela ETEC Parque da juventude
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas Na [São Paulo Tech School](https://sptech.school/)
 - 📚 Estudando [Java, Spring Boot](https://github.com/Henrytos/java-studies) para aprofundamento em back end
+- 🧑‍💻 Estagiário em Desenvolvimento Back end da [Stefanini Brasil](https://www.linkedin.com/company/stefanini-brasil/)
 - ❤️ Tenho um [linkedin](https://www.linkedin.com/in/henry-franz/) e sempre estou postando passos de minha trajetória na programação
 
 <br/>
@@ -49,7 +50,7 @@
 
 <h2>📚 Estudando</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,swagger,aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,angular,aws&theme=dark)](https://skillicons.dev)
 
 </div>
 
