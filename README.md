@@ -15,32 +15,14 @@
 <br/>
 
 ---
-<br>
+
+<!-- <br>
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrytos/Henrytos/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrytos/Henrytos/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/Henrytos/output/pacman-contribution-graph.svg">
-</picture> 
-
-###
----
-
-
-
-
-<!-- 
-## ⭐ Métricas do GitHub
-
-
-<img src="https://github.com/Henrytos/Henrytos/blob/main/profile-3d-contrib/profile-night-green.svg" />
-
-<a href="https://github.com/Henrytos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrytos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrytos&layout=compact&langs_count=6&theme=radical"/>
-</a> -->
-
-
+</picture>  -->
 
 <table>
   <tr>
@@ -63,6 +45,24 @@
     </td>
   </tr>
 </table>
+
+###
+---
+
+
+
+
+<!-- 
+## ⭐ Métricas do GitHub
+
+
+<img src="https://github.com/Henrytos/Henrytos/blob/main/profile-3d-contrib/profile-night-green.svg" />
+
+<a href="https://github.com/Henrytos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrytos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrytos&layout=compact&langs_count=6&theme=radical"/>
+</a> -->
+
 
 
  ## 🔥 Projetos Pessoais
