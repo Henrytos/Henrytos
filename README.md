@@ -12,10 +12,7 @@
 - 🧑‍💻 Estagiário em Desenvolvimento Back end da [Stefanini Brasil](https://www.linkedin.com/company/stefanini-brasil/)
 - ❤️ Tenho um [linkedin](https://www.linkedin.com/in/henry-franz/) e sempre estou postando passos de minha trajetória na programação
 
-<br/>
-
 ---
-
 <!-- <br>
 
  <picture>
@@ -23,7 +20,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrytos/Henrytos/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/Henrytos/output/pacman-contribution-graph.svg">
 </picture>  -->
-
 <table>
   <tr>
     <td>
@@ -48,10 +44,6 @@
 
 ###
 ---
-
-
-
-
 <!-- 
 ## ⭐ Métricas do GitHub
 
@@ -62,9 +54,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrytos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrytos&layout=compact&langs_count=6&theme=radical"/>
 </a> -->
-
-
-
  ## 🔥 Projetos Pessoais
 
   <a href="https://github.com/Henrytos/cycle-authenticate" targer="_blank">
