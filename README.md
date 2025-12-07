@@ -14,7 +14,6 @@
 
 <br/>
 
-<!--
 ---
 <br>
 
@@ -26,15 +25,17 @@
 
 ###
 ---
--->
 
+
+
+
+<!-- 
 ## ⭐ Métricas do GitHub
 
 
 <img src="https://github.com/Henrytos/Henrytos/blob/main/profile-3d-contrib/profile-night-green.svg" />
 
-
-<!-- <a href="https://github.com/Henrytos">
+<a href="https://github.com/Henrytos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrytos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrytos&layout=compact&langs_count=6&theme=radical"/>
 </a> -->
