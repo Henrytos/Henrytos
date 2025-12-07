@@ -26,15 +26,15 @@
       <img src="https://github.com/Henrytos/Henrytos/blob/main/profile-3d-contrib/profile-night-green.svg" height="350"/>
     </td>
     <td>
-    <h2>☕ Skills Back end</h2>
+    <h3>☕ Skills Back end</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,vitest,docker,redis,mysql&theme=dark" />
     </a>
-    <h2>🖌️ Skills Front end</h2>
+    <h3>🖌️ Skills Front end</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&theme=dark" />
     </a>
-    <h2>📚 Estudando</h2>
+    <h3>📚 Estudando</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,aws&theme=dark" />
     </a>
