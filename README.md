@@ -80,5 +80,5 @@
   </a>
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:AB47BC,100:10002B" style="transform: translateY(-2.1rem);" />
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:AB47BC,100:10002B" style="transform: translateY(-2.1rem);" /> -->
 
