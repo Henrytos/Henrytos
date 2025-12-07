@@ -42,22 +42,27 @@
 
 
 
-<div style="display: inline-block">
-
-<h2> ☕ Skills Back end</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,ts,nestjs,prisma,vitest,docker,redis,mysql&theme=dark)](https://skillicons.dev)
-
-<h2>🖌️ Skills Front end</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&theme=dark)](https://skillicons.dev)
-
-
-<h2>📚 Estudando</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,angular,aws&theme=dark)](https://skillicons.dev)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Henrytos/Henrytos/blob/main/profile-3d-contrib/profile-night-green.svg" height="350"/>
+    </td>
+    <td>
+    <h2>☕ Skills Back end</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,vitest,docker,redis,mysql&theme=dark" />
+    </a>
+    <h2>🖌️ Skills Front end</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&theme=dark" />
+    </a>
+    <h2>📚 Estudando</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,aws&theme=dark" />
+    </a>
+    </td>
+  </tr>
+</table>
 
 
  ## 🔥 Projetos Pessoais
