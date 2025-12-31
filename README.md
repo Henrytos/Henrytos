@@ -1,7 +1,7 @@
 # 💙 Olá, eu sou Henry Franz
 <p align="left">
   Desenvolvedor em formação, apaixonado por aprender e compartilhar conhecimento. <br>
- Tenho foco em ser desenvolvedor back end <strong>Java</strong> com <strong>Spring boot</strong>, com o objetivo de transformar cada aprendizado em uma grande passo na minha vida prossional.
+ Tenho foco em ser desenvolvedor back end <strong>Java</strong> com <strong>Spring boot</strong>, com o objetivo de transformar cada aprendizado em uma grande passo na minha vida profissional.
 </p>
 
 ## Sobre mim
