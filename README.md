@@ -1,4 +1,4 @@
-# 💙 Olá, eu sou Henry Franz
+<img width="16" height="16" alt="claudecode-color" src="https://github.com/user-attachments/assets/8e67e6cb-7b1f-4580-8b61-cffff642d921" /># 💙 Olá, eu sou Henry Franz
 <p align="left">
   Desenvolvedor em formação, apaixonado por aprender e compartilhar conhecimento <br>
  Tenho foco em ser desenvolvedor back end <strong>Java</strong> com <strong>Spring boot</strong>, com o objetivo de transformar cada aprendizado em uma grande passo na minha vida profissional
@@ -36,7 +36,8 @@
     </a>
     <h3>📚 Estudando</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=redis,githubactions,rabbitmq,aws&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=redis,githubactions&theme=dark" />
+      <img width="48" height="48" alt="imagem" src="https://github.com/user-attachments/assets/bd8cc191-5002-48d0-9add-ce8b22f0c65e" />
     </a>
     </td>
   </tr>
