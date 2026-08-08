@@ -28,15 +28,15 @@
     <td>
     <h3>☕ Skills Back end</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,vitest,docker,mysql&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=nodejs,java,spring,docker,kafka,postgres&theme=dark" />
     </a>
     <h3>🖌️ Skills Front end</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,ts,react,angular,tailwind&theme=dark" />
     </a>
     <h3>📚 Estudando</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,aws&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=redis,githubactions,rabbitmq,aws&theme=dark" />
     </a>
     </td>
   </tr>
