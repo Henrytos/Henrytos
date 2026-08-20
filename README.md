@@ -1,4 +1,4 @@
-<img width="16" height="16" alt="claudecode-color" src="https://github.com/user-attachments/assets/8e67e6cb-7b1f-4580-8b61-cffff642d921" /># 💙 Olá, eu sou Henry Franz
+# 💙 Olá, eu sou Henry Franz
 <p align="left">
   Desenvolvedor em formação, apaixonado por aprender e compartilhar conhecimento <br>
  Tenho foco em ser desenvolvedor back end <strong>Java</strong> com <strong>Spring boot</strong>, com o objetivo de transformar cada aprendizado em uma grande passo na minha vida profissional
@@ -45,16 +45,8 @@
 
 ###
 ---
-<!-- 
-## ⭐ Métricas do GitHub
 
 
-<img src="https://github.com/Henrytos/Henrytos/blob/main/profile-3d-contrib/profile-night-green.svg" />
-
-<a href="https://github.com/Henrytos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrytos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrytos&layout=compact&langs_count=6&theme=radical"/>
-</a> -->
  ## 🔥 Projetos Pessoais
 
   <a href="https://github.com/Henrytos/cycle-authenticate" targer="_blank">
